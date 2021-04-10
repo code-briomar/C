@@ -6,5 +6,5 @@ int main(){
     printf("This is a breakfast menu system. \n");
     choice();
     printf("\n Enter any key to perform a closure : ");
-    scanf("%s",&closure_key);
+    scanf("%c",&closure_key);
 }
